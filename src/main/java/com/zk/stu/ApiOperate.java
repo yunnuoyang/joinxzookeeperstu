@@ -9,6 +9,8 @@ import java.util.concurrent.CountDownLatch;
 
 /**
  * zookeeper的简单Api操作示例
+ * zookeeper相比较于springcloud的组件的话，与euraka的作用相同
+ * 用来做注册中心
  */
 public class ApiOperate {
     /** zookeeper地址 */
